@@ -2,15 +2,13 @@
 
 ---
 
-I am a Full-stack Developer, ERP Consultant and Datascience Researcher. :wink:
+I am a Full-stack Developer, AI Developer, ERP Consultant and Datascience Researcher. :wink:
  
  🔭 I’m planning for a Project **Full Scale Digital Transformation**.
  
- 🌱 I’m currently working on **Business Process Automation**.
+ 🌱 I’m currently working on **AI Enabled SMART ADVISORY Platforms, Business Process Automation**.
  
- 👯 I’m looking to collaborate for a finTech project **GizeBits Store**.
- 
- 💬 Ask me about Full Stack Development, ML, Oracle ERp and any Tech-related stuff.
+ 💬 Ask me about Full Stack Development, ML, ERP and any Tech-related stuff.
 
 
 ![Profile views](https://gpvc.arturio.dev/Mekuanent-Ashagrie)  <img src="https://img.shields.io/github/followers/Mekuanent-Ashagrie?label=Follow" style=" float:left, margin-right:10px" />
