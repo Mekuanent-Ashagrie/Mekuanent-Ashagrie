@@ -39,11 +39,6 @@ I am a Full-stack Developer, AI Developer, ERP Consultant and Datascience Resear
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mekuanent-Ashagrie&show_icons=true&hide_border=true)
-
-
----
-
 
 ### You can find in me in the web 🌍
 [<img align="left" alt="Mekuanent-Ashagrie" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
