@@ -10,10 +10,6 @@ I am a Full-stack Developer, AI Developer, ERP Consultant and Datascience Resear
  
  💬 Ask me about Full Stack Development, ML, ERP and any Tech-related stuff.
 
-
-![Profile views](https://gpvc.arturio.dev/Mekuanent-Ashagrie)  <img src="https://img.shields.io/github/followers/Mekuanent-Ashagrie?label=Follow" style=" float:left, margin-right:10px" />
-
-
 ---
 
 
